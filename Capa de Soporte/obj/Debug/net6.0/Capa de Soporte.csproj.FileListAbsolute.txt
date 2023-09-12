@@ -1,0 +1,12 @@
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\bin\Debug\net6.0\Capa de Soporte.deps.json
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\bin\Debug\net6.0\Capa de Soporte.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\bin\Debug\net6.0\Capa de Soporte.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\Capa de Soporte.csproj.AssemblyReference.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\Capa de Soporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\Capa de Soporte.AssemblyInfoInputs.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\Capa de Soporte.AssemblyInfo.cs
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\Capa de Soporte.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\Capa de Soporte.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\refint\Capa de Soporte.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\Capa de Soporte.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Capa de Soporte\obj\Debug\net6.0\ref\Capa de Soporte.dll
