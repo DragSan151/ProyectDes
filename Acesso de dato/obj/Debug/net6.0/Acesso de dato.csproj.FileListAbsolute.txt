@@ -1,0 +1,27 @@
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\bin\Debug\net6.0\Acesso de dato.deps.json
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\bin\Debug\net6.0\Acesso de dato.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\bin\Debug\net6.0\Acesso de dato.pdb
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\refint\Acesso de dato.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.pdb
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Acesso de dato\obj\Debug\net6.0\ref\Acesso de dato.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.csproj.AssemblyReference.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.AssemblyInfoInputs.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.AssemblyInfo.cs
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\refint\Acesso de dato.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\bin\Debug\net6.0\Acesso de dato.deps.json
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\bin\Debug\net6.0\Acesso de dato.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\bin\Debug\net6.0\Acesso de dato.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\bin\Debug\net6.0\Capa de Soporte.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\bin\Debug\net6.0\Capa de Soporte.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\Acesso de dato.csproj.CopyComplete
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Acesso de dato\obj\Debug\net6.0\ref\Acesso de dato.dll
