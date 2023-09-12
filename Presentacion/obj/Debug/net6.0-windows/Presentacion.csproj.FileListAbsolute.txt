@@ -1,0 +1,161 @@
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Interop.Accessibility.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.ResolveComReference.cache
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.FrmPresentacion.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Properties.Resources.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.exe
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.deps.json
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.runtimeconfig.json
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.pdb
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Datos.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Dominio.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Dominio.pdb
+D:\Visual\Proyect\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Datos.pdb
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\refint\Presentacion.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.pdb
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ref\Presentacion.dll
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ClienteDes.Form1.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Resources.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.PrincipalProd.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.CompraCliente.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.ComprasProductor.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Pagar.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.TrabajoProductor.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Administracion.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Configuracion.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Ordenes.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Productos.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.ProductosProd.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Admin.resources
+D:\Visual\Proyect\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\SEBASTIÁN\Desktop\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.dll
+C:\Users\SEBASTIÁN\Desktop\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\refint\Presentacion.dll
+C:\Users\SEBASTIÁN\Desktop\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.pdb
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Interop.Accessibility.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.ResolveComReference.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Admin.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Administracion.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.CompraCliente.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.ComprasProductor.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Configuracion.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.FrmPresentacion.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ClienteDes.Form1.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Ordenes.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Pagar.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.PrincipalProd.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Productos.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.ProductosProd.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Properties.Resources.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Resources.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.TrabajoProductor.resources
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\refint\Presentacion.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.pdb
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.exe
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.deps.json
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.runtimeconfig.json
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.pdb
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ref\Presentacion.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Acesso de dato.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Domain.dll
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Domain.pdb
+C:\Users\usuario\OneDrive\Escritorio\holi\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Acesso de dato.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.AssemblyReference.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Interop.Accessibility.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.ResolveComReference.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Admin.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Administracion.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Agregar.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.ComprasProductor.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Configuracion.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ClienteDes.Form1.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Login.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Ordenes.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Pagar.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ProductorDES.PrincipalProd.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.Productos.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\FormPrincipalDes.ProductosProd.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Properties.Resources.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Resources.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.Restablecer_Contra.resources
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\refint\Presentacion.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.exe
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.deps.json
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.runtimeconfig.json
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Presentacion.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Acesso de dato.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Capa de Soporte.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Domain.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Acesso de dato.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Capa de Soporte.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\bin\Debug\net6.0-windows\Domain.pdb
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\ref\Presentacion.dll
+C:\Users\SEBASTIÁN\Downloads\holi - copia\ProyectDes\Presentacion\obj\Debug\net6.0-windows\Presentacion.TrabajoProductor.resources
